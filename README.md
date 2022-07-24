@@ -5,13 +5,13 @@ Aspiring frontend developer, currently working as UI Intern.
 I am 20 years old student living in Kraków, Poland. I am studying Information Technology and Econometrics at AGH UST. This field of study combines my 2 fields of interest which are programming and economics. I want to provide data to well-looking and easy to understand applications. 
 
 ### 📚 Skills
-💻 Tech:
+💻 Tech: <br />
 HTML 🔹 CSS (SCSS) 🔹 JavaScript 🔹 React.js 🔹 GIT 🔹 Java (novice level) 🔹 Python (novice level)
 
-🏫 Academic:
+🏫 Academic: <br />
 Economics 🔹Maths 🔹 Statistics 🔹 Data analysis
 
-🌐 Other:
+🌐 Other: <br />
 English (B2) 🔹 German (A2) 🔹 Teamwork 
 
 

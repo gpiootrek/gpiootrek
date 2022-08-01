@@ -6,7 +6,7 @@ I am 20 years old student living in Kraków, Poland. I am studying Information T
 
 ### 📚 Skills
 #### 💻 Tech:
-HTML 🔹 CSS (SCSS) 🔹 JavaScript 🔹 React.js 🔹 GIT 🔹 Java (novice level) 🔹 Python (novice level)
+HTML 🔹 CSS (SCSS) 🔹 JavaScript 🔹 React.js 🔹 Angular 🔹 TypeScript 🔹 GIT 🔹 Java (novice level) 🔹 Python (novice level)
 
 #### 🏫 Academic: 
 Economics 🔹Maths 🔹 Statistics 🔹 Data analysis

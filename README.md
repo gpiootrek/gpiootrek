@@ -15,12 +15,12 @@ Economics 🔹Maths 🔹 Statistics 🔹 Data analysis
 English (B2) 🔹 German (A2) 🔹 Teamwork 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gpiootrek&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 ### Contact me:
 
-[<img align="left" alt="LinkedIn - Piotr Gołąb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/piotr-gołąb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piotr-gołąb/" height="30" width="40" /></a>
+</p>
 
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpiootrek&show_icons=true&locale=en&layout=compact" alt="gpiootrek" /></p>
 
-[linkedin]: https://www.linkedin.com/in/piotr-gołąb/
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpiootrek&show_icons=true&locale=en" alt="gpiootrek" /></p>

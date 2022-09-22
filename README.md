@@ -15,11 +15,13 @@ Economics 🔹Maths 🔹 Statistics 🔹 Data analysis
 English (B2) 🔹 German (A2) 🔹 Teamwork 
 
 
-### Contact me:
+### 🔗 Contact me:
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/piotr-gołąb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piotr-gołąb/" height="30" width="40" /></a>
 </p>
+
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpiootrek&show_icons=true&locale=en&layout=compact" alt="gpiootrek" /></p>
 

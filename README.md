@@ -22,5 +22,3 @@ English (B2) 🔹 German (A2) 🔹 Teamwork
 </p>
 
 <hr>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpiootrek&show_icons=true&locale=en&layout=compact" alt="gpiootrek" /></p>

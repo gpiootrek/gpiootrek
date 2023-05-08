@@ -2,11 +2,11 @@
 Junior Frontend Developer (Angular).
 
 ### 🤔 Who am I?
-I am 20 years old student living in Kraków, Poland. I am studying Information Technology and Econometrics at AGH UST. This field of study combines my 2 fields of interest which are programming and economics. I want to provide data to well-looking and easy to understand applications. 
+I am 20 years old student living in Kraków, Poland. I am studying Computer Science and Econometrics at AGH UST. This field of study combines my 2 fields of interest which are programming and economics. My goal is to satisfy user experience by providing data to good-looking applications. 
 
 ### 📚 Skills
 #### 💻 Tech:
-HTML 🔹 CSS (SCSS) 🔹 JavaScript 🔹 React.js 🔹 Angular 🔹 TypeScript 🔹 GIT 🔹 Java (novice level) 🔹 Python (novice level)
+HTML 🔹 CSS (SCSS) 🔹 JavaScript 🔹 Angular 🔹 TypeScript 🔹 React.js 🔹 GIT 🔹 Java (novice level) 🔹 Python (novice level) 🔹 R (novice level)
 
 #### 🏫 Academic: 
 Economics 🔹Maths 🔹 Statistics 🔹 Data analysis

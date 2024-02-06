@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Piotr Gołąb
-Junior Frontend Developer (Angular)
+Frontend Developer (Angular)
 
 ### 🤔 Who am I?
-Frontend Developer specialized in Angular, located in Kraków, Poland. I am studying Computer Science and Econometrics at AGH UST. This field of study combines my 2 fields of interest - programming and economics. While creating frontend applications I want to satisfy user experience by providing data in a well-designed, easy to understand way.
+Frontend Developer specialized in Angular, located in Kraków, Poland. I am studying Computer Science and Econometrics at AGH UST. This field of study combines my 2 fields of interest - programming and economics. While creating frontend applications I want to satisfy user experience by providing data in a well-designed and easy to understand way. Experienced in delivering high-quality front-end applications, especially for clients from banking sector.
 
 ### 📚 Skills
 #### 💻 Tech:
